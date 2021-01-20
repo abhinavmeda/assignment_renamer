@@ -30,7 +30,6 @@ def change_name():
         im = Image.open(os.path.join(FOLDER_PATH, picture))
         (left, top, right, bottom) = (0, 0, 300, 100)
         img = im.crop((left, top, right, bottom))
-        img.show()
         img.save(TEMPORARY_FOLDER_PATH + picture, 'JPEG')
         name = get_name(picture).rstrip("\n")
         name += '.jpg'
