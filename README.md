@@ -9,6 +9,6 @@ Then, I drag them from my WhatsApp to my desktop.
 The jpegs on my desktop look like this e52d6e80-813f-474a-bc5b-f1e54d300e9e.jpg and so its really easy to accidentally reupload a question I have already 
 submitted. 
 
-The idea is to take e52d6e80-813f-474a-bc5b-f1e54d300e9e.jpg and convert it into or pset1 1a)
+The idea is to take e52d6e80-813f-474a-bc5b-f1e54d300e9e.jpg and convert it into pset1 1a)
 
 This alleviates my stress and is immensely helpful when it comes to crunch time!
